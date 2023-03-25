@@ -158,3 +158,5 @@ with. Make sure you use the resources and Google to find the right statements.
 
 - [SQL Datatypes](https://www.sqlite.org/datatype3.html)
 - [SQL GROUP BY](https://www.sqlite.org/lang_select.html#resultset)
+
+https://github.com/G3o-R/phase-3-sql-organizing-bears-lab
